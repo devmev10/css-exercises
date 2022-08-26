@@ -1,0 +1,16 @@
+.odd{
+    background: lightpink;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+#id1{
+    color: blue;
+    font-size: 36px;
+}
+.secondOdd{
+    font-size: 24px;
+}
+#id2{
+    background: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
